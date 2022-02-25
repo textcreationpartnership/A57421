@@ -1,0 +1,1117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mans chief guide to salvation wherein is laid down many good instructions and motives to stir up every poor soul, that he may be able in these sinfull days to withstand Satans assaults / by Thomas Robins.</title>
+            <author>Robins, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57421</idno>
+            <idno type="STC">Wing R1651</idno>
+            <idno type="STC">ESTC R29324</idno>
+            <idno type="EEBO-CITATION">11076553</idno>
+            <idno type="OCLC">ocm 11076553</idno>
+            <idno type="VID">46250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1430:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mans chief guide to salvation wherein is laid down many good instructions and motives to stir up every poor soul, that he may be able in these sinfull days to withstand Satans assaults / by Thomas Robins.</title>
+                  <author>Robins, Thomas.</author>
+               </titleStmt>
+               <extent>21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passenger ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages tightly bound with some loss of print.</note>
+                  <note>Engraved t.p.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Anglican authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:46250:1"/>
+               <pb facs="tcp:46250:1" rendition="simple:additions"/> Mans Chief Guide to SALVATION: Wherein is laid down many good Inſtructions and motives to ſtir up every poor ſoul, that he may be able in theſe ſinfull days to withſtand Satans aſſaults. By <hi>Tho. Robins</hi> B. of D.</p>
+            <figure>
+               <head>T R</head>
+               <figDesc>portrait, presumably of Thomas Robins, with an open book in hand</figDesc>
+            </figure>
+            <p>Cor. 16. 13, 14. <hi>Watch ye, ſtand faſt in the faith, quit your ſelves like men, and be ſtrong.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted for <hi>T. Paſſenger</hi> on
+<hi>London-bridge,</hi> 1666.</p>
+            <pb facs="tcp:46250:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46250:2"/>
+            <head>MANS Chief Guide to SALVATION.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Matth.</hi> 11, 28, 29.</bibl>
+               <q>Come unto me all ye that are weary and heavy laden, and I will give you reſt. Take my yoke upon you and learn of me, for I am meek and lowly in heart, and ye ſhall find reſt unto your ſouls.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y Beloved, here you may ſée the great love that our bleſſed Lord &amp; Saviour Ieſus Chriſt bears to poor ſinners. Firſt of calling us ſo lovingly, <hi>Come;</hi> and to us as I may ſay, <hi>Come <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to me.</hi> Secondly, we may plainly ſée who <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is that ſhould come: <hi>all ye that be heavy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>den.</hi> And thirdly, the chiefeſt reaſon of
+<pb n="2" facs="tcp:46250:3"/> this why he calls us, becauſe he will give us reſt: I but what reſt?
+<hi>the everlaſting reſt for our ſouls.</hi>
+            </p>
+            <p>Indéed my brethren I deſire you all to take notice that our Saviour Ieſus Chriſt hath a great love to us, in calling us ſo lovingly as he doth here in this place of Scripture, I, and in many more: but alas how many is there y<hi rend="sup">t</hi> regard it? no, no, we are the more ready for to turn the fartheſt from him, little knowing the danger that may follow: for ſin is ſo plea<g ref="char:EOLhyphen"/>ſant unto us, that we never regard what any ſays to us, when we be a going to any ſin. A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for example theſe thrée ſins which I here ſha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> name unto you, that is to ſay, Pride, Whore<g ref="char:EOLunhyphen"/>dome, and Drunkenneſs, which are the thré<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terrible crying ſins of the Nation; yet let u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but buſie our ſelves about one of theſe, thoug<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord himſelf calls we will not hear.</p>
+            <p>In the firſt place, Drunkenneſs is a mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notorious ſin, and a delightful ſin: For whe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thrée or four, more or leſs, are got on the Al<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> houſe bench there to make mery, never think<g ref="char:EOLunhyphen"/>ing on the danger that may follow, but the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſit quaffing &amp; making themſelves mer<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> till they be ſo much inflamed with it, that the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forget themſelves and ſo become drunk, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then any ſin is common with them: then th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wicked ſin of ſwearing muſt be maintain<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by ſwearing of one great oath or anothe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:46250:3"/> which is a moſt baſe and notorious ſin: and I pray God y<hi rend="sup">t</hi> every one of us may have a care how we follow any ſuch terrible ſin: for cer<g ref="char:EOLhyphen"/>tainly y<hi rend="sup">e</hi> Lord is ſorely offended at this Land and Nation for the maintaing this ſin of drunkenneſs ſo much as we do: therefore in y<hi rend="sup">e</hi> name of God I deſire every one of you to have a care of this terrible ſin of drunkenneſs: for certainly this is a great cauſe to ſtay men for coming to our Saviour; although he calls us ſo loving as he doth in this Text, as to <hi>come unto me all ye that labour and are heavy laden, and I will give you reſt.</hi> But certainly my brethren the Lord will puniſh us for this ſin: for we may aſſure our ſelves that he doth take notice how we do lead our lives. I pray you look into the 28 Chapter of <hi>Iſaiah,</hi> at the 7 verſe, and there you may ſée that the Lord took notice of the Drunkenneſs that was a<g ref="char:EOLhyphen"/>mong the people: <hi>But they alſo have erred through Wine and ſtrong Drink, and are out of the way: the Prieſt and the Prophet have erred through ſtrong Drink, they are ſwallow<g ref="char:EOLhyphen"/>ed up with Wine, they are out of the way through ſtrong Drink, Iſa.</hi> 28. <hi>ver.</hi> 7. By this my brethren, you may ſée that the Lord takes notice of this wicked ſin of Drunkenneſs, and pray God give every one of you grace to have a care that we fall not into this wick<g ref="char:EOLhyphen"/>ed ſin; for certainly it is one of the greateſt
+<pb n="4" facs="tcp:46250:4"/> ſins of the Nation, which cries out for judge<g ref="char:EOLhyphen"/>ment againſt us.</p>
+            <p>2. I deſire to exhort you to have a care of that moſt abominable ſin of Whoredome, for that is a ſin that the Lord joins to pride, as you may find in <hi>Iſaiah</hi> 18.
+<hi>verſ.</hi> 1. for there he cries, <hi>Woe to the Crown of Pride, to the drunkenneſs of Ephraim, whoſe glorious beau<g ref="char:EOLhyphen"/>ty is a fading flower.</hi> But for all this, who is he that doth ſéek to flie from this ſin of Pride? No, no, it hath too much pleaſure in the eye: nay, rather then we would ſtep one foot back from it, we had rather ſet two forward to maintain it. But truly good people I muſt needs tell you, this is not y<hi rend="sup">•</hi> way to bring you into the way of ſalvation; no, it will build a ſtrong wall of ſeparation between y<hi rend="sup">e</hi> Lord and you; therefore in the name of God have a care of it; for certainly the Lord will have ac<g ref="char:EOLhyphen"/>count given him at the latter day: Then it is not your Silks and Satten, nor your fine ap<g ref="char:EOLhyphen"/>parel that can do you any good. No my Bre<g ref="char:EOLhyphen"/>thren, then your gay attire will be odious in the ſight of our Lord &amp; Savior Ieſus Chriſt, &amp; the rottenneſs of your hearts will ſtink in your own noſtrils: therefore I deſire you once more to have a care, and to ſtrive by all poſſi<g ref="char:EOLhyphen"/>ble means to refrain from all ſin whatſoever, and ſtrive to be ready to make anſwer to the
+<pb n="5" facs="tcp:46250:4"/> Lord when he calls us to an account, as he did the ſervants in y<hi rend="sup">e</hi> goſpel, which he had former<g ref="char:EOLhyphen"/>ly given the Talents to, to ſee what good uſe they had made of them: &amp; ſome had put them to good uſe, and the Lord did commend them that had put them to good uſe:
+<hi>His Lord ſaid unto him, well done thou good and faithfull ſervant, thou haſt been faithful over few things, I will make thee ruler over many things, enter thou into the joy of thy Lord, Matth.</hi> 25. 23. And thus you may ſee what a gallant thing it is for every chriſtian to make good uſe of their time while they live here on earth, that they may be able to give a good account at y<hi rend="sup">e</hi> latter day, when they are called to the judgement<g ref="char:EOLhyphen"/>ſeat, as this faithful ſervant did: then may they come to receive y<hi rend="sup">e</hi> ſame reward, &amp; ſo en<g ref="char:EOLhyphen"/>ter into the joy of the Lord: but have a care y<hi rend="sup">t</hi> you be not found like the wicked and ſlothful ſervant, for fear the Lord ſay the ſame words to you, as he did to him in the 28 verſe of this Chapter, in theſe words, <hi>Take therefore the talents from him, and give it unto him that hath ten talents:</hi> Indéed this was a great diſcou<g ref="char:EOLhyphen"/>ragement to that ſervant: but this did not ſerve his turn, now the worſt came after; for it was not the loſs of his ſubſtance which the Lord lent him, that could make recompence, as you may ſée in the 29 and 30 verſes of this Chapter, <hi>For unto every one that hath</hi>
+               <pb n="6" facs="tcp:46250:5"/> 
+               <hi>ſhall be given, and he ſhall have abundance; but for him that hath not ſhall be taken away, even that which he hath, and caſt ye the unprofi<g ref="char:EOLhyphen"/>table ſervant into utter darkneſs; there ſhall be weeping and gnaſhing of teeth, Matth.</hi> 25. 29, 30.
+<hi>verſes.</hi> Even ſo will it be one day with us; for the Lord muſt and will have account given him: then happy is that poor ſoul that hath any ſpark of grace in him, to bring him into the way of repentance: for certainly if you will but labour while you live here on earth for to ſerve the Lord with a true heart, then no doubt but the Lord will give you reſt in that bleſſed kingdom, and ſpeak unto us with thoſe comfortable words, as he ſpake to the people in <hi>Iſa.</hi> 45. 9, 10 <hi>ver. Thou whom I have choſen from the ends of the earth, and called thee from the chief men of the throne, and ſaid unto thee, thou art my ſervant, I have choſen thee, and not caſt thee away; fear thou not, for I am with thee; be not diſmaid, fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I am thy God, I will ſtrengthen thee, I will help thee, yea, I will uphold thee with the right hand of my righte<g ref="char:EOLhyphen"/>ouſneſs.</hi> O what a comfortable ſpéech was here to be ſpoke from a ſinner from ſo good and gracious a God? O what man or woman y<hi rend="sup">t</hi> hath any fear of God before their eyes, but they would ſtrive to pleaſe ſo loving a God as we have that is always careful over as, &amp; ca<g ref="char:EOLhyphen"/>ring of us, to put us in mind of him; nay good
+<pb n="7" facs="tcp:46250:5"/> people this calling is not all, but he makes us any a great promiſe, and all is to win our <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve to him, as you may ſée in that 4 verſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the 51 of
+<hi>Iſaiah, Hearken to me my people, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd give ear unto me, O my Nation; for a Law <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all proceed from me, and I will make my judg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents to reſt for a light of the people. Break <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth in joy, ſing together ye waſte places of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruſalem; for the Lord hath comforted his
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eople, he hath redeemed Jeruſalem, Iſaiah</hi> 52.</p>
+            <p>
+               <hi>I will declare thy righteouſneſs and thy
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orks; for they ſhall not profit thee when thou <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rieſt: Let thy companions deliver thee, but the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind ſhall carry them all away, vanity ſhall take <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em, but he that putteth his truſt in me, ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſſeſs the Land, and ſhall inherit my holy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ountain, Iſaiah</hi> 57. 12. and 13. verſes. Here <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may ſée what a love the Lord hath to us,
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f we would but love him: But alas, how
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould we love him which we did never ſée, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd cannot love our poor Brethren which is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aily with us? We have many days of Faſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, many days of Humiliation, which is
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery good; I but how do we Faſt? to bréed Diſſention with our Neighbours, and for an
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utward ſhew, and inwardly inventing ſtrife
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd be bate, as the Prophet <hi>Iſaiah</hi> ſayes in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. 58. of <hi>Iſaiah</hi> and about the 14. verſe.
+<pb n="8" facs="tcp:46250:6"/> 
+               <hi>Behold, ye faſt for ſtrife and debate, and fight with the fiſt of wickedneſs.</hi> And I pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God that there be not a great many of us th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do uſe to faſt after this manner: for I am <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fraid there are too many now a days that ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a great ſhew of going to Church to faſt a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pray, and yet bring but an evil heart back <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gain; for either they have ſome grudge ſome neighbour, or one evil thought or othe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for if nothing elſe canker their hearts, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will have a grudge towards the poor, and t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor ſhould be the chief of their faſt, as y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may find in <hi>Iſaiah</hi> 56. and 7. verſe of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chapter; for the Prophet cballengeth y<hi rend="sup">e</hi> peop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about their faſt, becauſe he ſaw it was wic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed, for ſays he, <hi>It is ſuch a faſt which I ha<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> choſen, a bowing down his head like a bul-ruſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and to ſpread ſackcloth and aſhes under him wilt thou call this a Faſt, and an acceptabl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day unto the Lord? is not this the Faſt that have choſen to looſe the hands of wickedneſs to undoe the heavy burdens, and to let the op<g ref="char:EOLunhyphen"/>preſſed go free, and that you break every yoak Is it not to deal thy bread to the hungry, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that thou bring the poor that are caſt out to thin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> houſe? when thou ſeeſt the naked, that tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cover them; and that thou hideſt not thy ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from thine own ſelf:</hi> Indéed good p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople yo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may ſée here this is the Faſt that we ſhoul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make if we ſhould faſt to pleaſe God, then w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:46250:6"/> muſt féed the hungry, clothe the naked, &amp; ſeek comfort the afflicted: but indeed <hi>I</hi> am afraid <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t here is but a few here that can ſay with a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e conſcience, that they do make ſuch a faſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this: But indeed my brethren all that I <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay unto it, is this, I pray God give every <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of us grace to fear him, and to love the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and needy, and ſeek to relieve them as <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord hath enabled us: For as <hi>Solomon</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, <hi>Prov.</hi>
+14. 20, 21. <hi>verſes, The poor is hated <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of his own neighbour, but the rich hath <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y friends: He that deſpiſeth his neighbour <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth, but he that hath mercy on the poor
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>py is he:</hi> And happy is he that can keep
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Commandments; for he that will ſtrive
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep theſe Commandments, the Lord will
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p him; for juſt as we keep Gods Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndments, ſo will the Lord keep us: there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as Moſes ſaid to the people in <hi>Deut.</hi> 11. 27, 28.
+<hi>verſes,</hi> ſo ſay I unto you that be
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e preſent, <hi>Beho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d I have ſet before you this a bleſſing and a curſe: a bleſſing if you obey Commandment of the Lord your God which
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommand you this day.</hi> Here you may ſee danger that belongs to us if we keep not Commandments, I and the bleſſing that
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ongs to all ſuch as doth keep them: And I
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y God give us all grace to chooſe the good,
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forſake the evil. Theſe Commandments Lord give every true Chriſtian grace to
+<pb n="10" facs="tcp:46250:7"/> kéep them, and ſéek to refrain thoſe wic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſins which I here have named, concerni<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Drunkenneſs and Pride.</p>
+            <p>And Thirdly, I deſire you to have a c<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of that wicked ſin of Pride; for certai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is a ſin that the Lord is ſorely diſpleaſed as you may peruſe by that place of Scr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture, in the 28 of <hi>Iſaiah</hi> and the 1 verſe; theſe words, <hi>Woe to the Crown of Pri<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Nay, there is many more places in Scr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture that gives us warning enough of th<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſins; and as the Apoſtle <hi>Paul</hi> ſaid to <hi>Philippians,</hi> ſo I ſay to you, <hi>Finally Brethr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whatſoever things are true, whatſoever thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are honeſt, whatſoever things are juſt, whatſoe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> things are pure, whatſoever things are love whatſoever things are of good report, if th<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> be any vertue, and if there be any praiſe, th<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> on theſe things, Philip.</hi> 4. 8.
+<hi>That you mi<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> walk worthy of the Lord unto all well-pleaſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being fruitful unto every good work, incr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſing in the knowledge of God, ſtrenſt the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with all might according to his glorious Po<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> unto all patience and long-ſuffering with <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fulneſs, Coloſ.</hi>
+1. 10, 11. <hi>verſes. Set your <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fections on things above, and not upon the th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the earth; for ye are dead, and your li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hid with Chriſt, Coloſ.</hi> 3. 2, 3. <hi>verſes.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:46250:7"/> Beloved, here you may ſée the perfeſt way
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> find Chriſt; for if you would go to him, you
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt ſet your affections <hi>on things above, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot on things below;</hi> for things on the earth <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e but dead, and of no value: no, no, it is the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings above that we muſt ſet our affections <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: if we mean to have life eternal, it is Chriſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Lord &amp; Savior that ſits upon the Throne <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at we muſt ſet our affections on, if ever we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ean to have peace with him in glory; then <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Paul</hi> ſaid to the <hi>Coloſſians, Put on therefore <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the elect of God, holy, and beloved, bowels <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy, kindneſs, humbleneſs of mind, meek<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs, long-ſuffering, forbearing one another, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd forgiving one another, if any man hath a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uarrel againſt any, even as Chriſt for gave you, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alſo do ye, and above a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l things put on charity, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich is the bond of perfectneſs,</hi> as you may <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in the 12.
+13. and 14. verſes of this Cha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter: and as the Apoſtle ſays here, we ought <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o forbear one another; and if any man wrong <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, as Chriſt forgave ſinners, ſo we ought <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o forgive one another. But alas my Bre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hren, it is not ſo with us now adays; now if <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny wrong one another, there is no forgive<g ref="char:EOLhyphen"/>neſs with a great many, but ſtraight to law, or elſe ſéek to do thrée ill turns for one, by one means or other: for if a poor man do anywrong to a rich man, then ſtraight he goes to Law;
+<pb n="12" facs="tcp:46250:8"/> and if a rich man do any wrong to a poor m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then he will ſtrive to do him one ill turn or
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther; I but this is againſt Gods Comma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment, as you may ſee by this place of Scr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture; for God commands us to love one a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther, and forgive one another, and ſo we m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> do, if we look that Chriſt ſhould forgive us,
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you may find in that 14. <hi>ver. Above all thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we ſhould put on charity:</hi> and that is a wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is but little uſed now adays, and a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is for want of love; for if we did love o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another, then Charity would be uſed a gre<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deal more then it is, and certainly we m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrive to put on both theſe garments, if
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do deſire to be one of Gods perfect ſervant<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>For charity is the bond of perfections, Col.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 14. For it is ſanctified by the Word of G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Prayer: if thou put thy brethren in <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inembrance of theſe things, thou ſhalt be <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good Miniſter of Ieſus Chriſt, nouriſhed <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the works of good Doctrine, whereun<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou haſt attained, 1
+<hi>Tim.</hi> 4. 5, 6 verſes. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>any man teach other ways, and conſent not to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wholſome words, even the words of our Lo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Jeſus Chriſt, and to the Doctrine which is a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cording to godlineſs, he is proud and knowin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing, doting about queſtions and ſtrifes
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> words, whereof cometh envy, ſtrife, railing<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> evil ſurmiſings, perverſe diſputings of men o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corrupt minds, and deſtitute of the truth, ſup<g ref="char:EOLunhyphen"/>poſing</hi>
+               <pb n="13" facs="tcp:46250:8"/> 
+               <hi>that gain is godlineſs, from ſuch with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thy ſelf,</hi> 1 Timothy 5. 3, 4, 5. verſes.
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat every one of us would but ſtrive to
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hdraw from ſuch people, and ſtrive to ſet
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hearts and minds upon the true know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ge of God: meditate upon theſe things,
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thy ſelf wholly to them, that the profit
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y appear to all, 1 <hi>Tim.</hi> 4. 15. <hi>O that every <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of you would but have a ſtrong confidence <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord, and carry a patient mind, ſo may <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> come to receive our reward,</hi> Hebrews 10. 36. <hi>Caſt not away therefore your confi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce, which hath great recompence of reward;
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ye have need of patience, that after ye have
+<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e the will of God, ye may receive the pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e. Let your converſation be without cove<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſneſs, and be content with ſuch things as you
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; for he hath ſaid, I will never leave thee forſake thee:</hi> ſo that we may boldly ſay, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Lord is my helper, I will not fear what man
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do unto me,</hi> Hebr. 13. 5, 6. verſes. O
+<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t every poor ſoul had but ſo much confi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce in the Lord, as to ſay that he is con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted without covetouſneſs, and that he is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll content with ſuch as the Lord hath ſent <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; then I ſay, happy is he, for the Lord
+<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h promiſed he will never forſake them, nor
+<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e them. If it be ſo, that the Lord hath
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omiſed that he will never forſake us, O let
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtrive to do our beſt endeavours never to
+<pb n="14" facs="tcp:46250:9"/> forſake him; for he is a gracious God a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> merciful Saviour to all ſuch as love him,
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> kéep his Commandments: for look into y<hi rend="sup">e</hi>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>James</hi> at the laſt verſe, and there you <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> find the pure Religion before the Lord is <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ving the widows and the fatherleſs, but tr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I cannot ſée but they be the leaſt looked a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now adayes, and then how can we ſay <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Religion is pure? <hi>Pure Religion and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> defiled before God,</hi> is this, <hi>to viſit the wid<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and fatherleſs in their affliction:</hi> I pray <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſider this, if there be no pure Religio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, but what doth viſit the Fatherleſs and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Widows in their affliction; truly it is to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feared we have but little pure Religio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Land: for let them be what they will<g ref="char:punc">▪</g> they be poor there is little looking on them,
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if they be rich they ſhall be feaſted, &amp; the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt ſtand back: I but you may ſée your ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that y<hi rend="sup">•</hi> Lord is not pleaſed at ſuch doings,
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> look into the ſecond of St. <hi>James,</hi> and there <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tells us y<hi rend="sup">t</hi> it is not a Chriſtians profeſſion<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> regard the rich, and d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpiſe the poor. <hi>Bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there come into your Aſſembly a man wit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gold Ring in good Garment, and there co<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in alſo a poor man in vile raiment, and y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have reſpect to him that hath the gay cloathi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and ſay unto him, ſit thou here in a good pla<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and ſay to the poor, ſtand thou here, or ſit un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my foot-ſtool, are you not then partial in yo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="15" facs="tcp:46250:9"/> 
+               <hi>ſelves, and becomes Judges of evil thoughts?</hi> Hearken my Brethren,
+<hi>Hath not God choſen the poor of this world rich in faith, and heirs of the Kingdome, which he hath promiſed to give them that love him, but ye have deſpiſed the poor, James</hi> 2. 2, 3,
+4, 5, 6. <hi>verſes.</hi> And as <hi>Paul</hi> ſaid to <hi>Timothy,</hi> in 2 <hi>Tim.</hi> 17.
+18. ſo I ſay to you all, charge them that are rich in this world that they be not high-minded, nor truſt in uncertain riches, but in y<hi rend="sup">•</hi> living God who giveth us richly all things to enjoy, that th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> do good, that they be rich in good works: which the Lord give us all grace ſo to do.</p>
+            <p>And now I deſire to give you a word of Ex<g ref="char:EOLhyphen"/>hortation concerning theſe perillous times we live in; our Saviour hath given us fair warning in many places of Scripture con<g ref="char:EOLhyphen"/>cerning this, as in
+<hi>Mark</hi> 13. beginning at the 5 verſe. <hi>Jeſus anſwering them, began to ſay, Take heed leſt any man deceive you; for many ſhall come in my Name and deceive you.</hi> Nay he had told his Diſciples, he told them when the people ſhould come, as you may ſée in the 4 verſe of this Chapter: <hi>And when you hear of wars, and rumours of wars, be not troubled; for ſuch things muſt needs be, but the end ſhall not be yet, Mark</hi> 13. 5, 6.
+<hi>verſes.</hi> Nay, if you but pleaſe to read the whole Chapter, you ſhall find it altogether to that purpoſe: Therefore in the Name of God I deſire you to have a
+<pb n="16" facs="tcp:46250:10"/> care of thoſe people; for you may ſée here tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord gives us fair warning, as you ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſée in the 22 verſe of this Chapter: For ſay<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he, <hi>If any man ſhall ſay unto you, lo, here is Chriſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or lo, there is Chriſt, believe him not:</hi> and i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the 22 verſe of this Chapter, you may mor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plainly underſtand the reaſon why he give<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us ſo much warning of them; <hi>for falſe Chriſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and falſe Prophets ſhall ariſe, and ſhall ſhe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſigns and wonders to ſeduce, if it were poſſibl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> even the very Elect.</hi> And indéed good peopl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you may aſſure your ſelves y<hi rend="sup">t</hi> there are ſuc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people abroad; now therefore have a care o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them: truly I do not ſay this or that is he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for you may know them by their works. An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as <hi>James</hi> ſaith, in the ſecond of
+<hi>James</hi> and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 14 verſe, <hi>What doth it profit my Brethren<g ref="char:punc">▪</g> though a man ſay he hath Faith, and have no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> works; can Faith ſave him?</hi> Now in the follow<g ref="char:EOLhyphen"/>ing verſes you may underſtand the differenc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> betwéen him that hath Faith and no works<g ref="char:punc">▪</g> 
+               <hi>For if a brother and a ſiſter be naked, and deſti<g ref="char:EOLhyphen"/>tute of daily food, and one of you ſay unto them depart in peace, be you clothed and filled;</hi> not<g ref="char:EOLhyphen"/>withſtanding ye give them not theſe thing<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that are néedful: So is Faith, <hi>if it have no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> works, it is dead being alone:</hi> yea a man ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, <hi>he hath faith, and I have works, ſhew me thy faith without thy works, and I will ſhew the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy faith by thy works. Thou believeſt there i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="17" facs="tcp:46250:10"/> 
+               <hi>one God, thou doſt well, the Devils believe and
+<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>emble; but wilt thou know vain man that faith
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithout works is dead, James</hi> 2 beginning at
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he 14 verſe, and ſo to the twentieth: ſo may <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſay unto ſuch people as do call themſelves Chriſt, and a man cannot perceive any ſuch
+<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orks in them; for if a man knows himſelf to
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave ſo much worth in him as to call himſelf Chriſt, I ſay I would gladly ſée them do ſuch
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iraculous déeds as he did, that is to cure the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame, the blind, and the ſick, and to raiſe the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead as he did: Nay, his Apoſtles, which call <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im Lord and Maſter, yet they had the ſame <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower in themſelves, to do ſuch things, as you <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay ſée in the 28 of the
+<hi>Acts</hi> and the 8 verſe. There you may ſée y<hi rend="sup">t</hi> 
+               <hi>Paul</hi> had power by th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealing of a <hi>Publican</hi> which lay ſick of a fever
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd a bloody flux, and he but touched him after
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had prayed: <hi>And it came to paſs that the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather of the Publican lay ſick of a Fever and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bloody flux, to whom Paul entred in and pray<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and laid his hands on him, and healed him:</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when this was done, others alſo which had <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeaſes in the Iſland came and were healed; <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you may ſée by this, that the Apoſtle had <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me more power then ordinary men, yet <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſt not call themſelves Chriſt: Nay I deſire <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u to look into the 3 of the
+<hi>Acts,</hi> and begin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng of the 1 verſe, and ſo to the 13 verſe: I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay you take notice, for it is worth your ob<g ref="char:EOLhyphen"/>ſervation.
+<pb n="18" facs="tcp:46250:11"/> 
+               <hi>Now Peter and John went up to<g ref="char:EOLhyphen"/>gether into the Temple at the hour of prayer, being the ninth hour, and a certain man lame from his Mothers womb, was carried, whom they laid daily at the Temple which is called beautiful, to ask alms of them which entred into the Temple: he ſeeing Peter and John about to go into the Temple, asking alms of them, Peter faſtening his eyes upon him with John, ſaid, Look on us; and he gave heed unto them, expecting to have received ſomething of them. Then Peter ſaid, Silver nor Gold have I none, but ſuch a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have I give to thee: in the Name of Jeſus o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nazareth riſe up and walk; and he took him by the right hand and lift him up, and immediate<g ref="char:EOLhyphen"/>ly his feet and his ancle-bones received ſtrength and he leaped up, ſtood, and walked with them into the Temple, leaping and praiſing God: An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they knew it was he which ſate for alms at the gate of the Temple, and they were filled with wonder and amazement at that which had hap<g ref="char:EOLhyphen"/>pened unto him: And as the lame man whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was healed beheld Peter and John, and a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> people ran together unto them in the Porch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which was called Solomons; and when Peter ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, he ſaid unto the people, Ye men of Iſrae<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> why marvel ye a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his? or why look ye ſo ear<g ref="char:EOLhyphen"/>neſtly on us, as if by our own power and god<g ref="char:EOLhyphen"/>lineſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we had made this man to walk? Acts</hi> th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> third, and beginning at the firſt, and ſo to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:46250:11"/> twelfth verſe: So here you may ſée that the
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſtles had great power from God, yet they
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not call themſelves Chriſt, as ſome will
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: now for all that you may ſée here they but <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k hold of the mans hand and bid him ariſe, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d he aroſe up from the ground and was <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aled; yet I ſay for all this, they denyed the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wer of themſelves, as you may ſée in this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt verſe: Then I ſay how dare any one of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay they be Chriſt, when they are not able <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do as his Apoſtles did? for certainly if our <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith be weak, and our works ſo ſmall that <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e fall ſhort of his Apoſtles, then certainly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e are not fit to equall our ſelves ſo much <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith the Lord our God as to call us Chriſt. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndéed I would deſire at the hands of Al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighty God to guide all ſuch into the way of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghteouſneſs, and to pardon and forgive both
+<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em and us for all our ſins and wickedneſs;
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as for all thoſe that doth hear any that calls
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf Chriſt, deſpiſe him not as an enemy, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut rather exhort him as a brother; yet this I <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y unto you, as you may find it written in <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ark</hi> 13. and the 23. <hi>But take ye heed: behold, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have foretold you all theſe things:</hi> This is a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>air warning for us to have a care of ſuch <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople, and not to be one of them: for if I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould hear or ſée this man do ſuch acts as our <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aviour Ieſus Chriſt did, or as his Apoſtles <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, then there would be ſome ground for their
+<pb n="20" facs="tcp:46250:12"/> profeſſing themſelves Chriſt: but truly it
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be feared that they be as great ſinners
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever, if not greater, therefore ought more
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be pitied. I exbort you therefore in the na<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God to pray for them. For as <hi>James</hi> ſaith <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fifth of <hi>James</hi> and at the thirtéenth verſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſo the latter end of the Chapter; and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſay to you all,
+<hi>Is any man among you afflic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed, let him pray; is any man merry, let him ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pſalms; is any man ſick among you, let him ca<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for the Elders of the Church, and let them pra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> over him, anointing him with the Oyl of the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, and the prayer of the faithful ſhall ſave th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſick, and the Lord will raiſe him up, and if he hav<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> committed ſins they ſhall be forgiven him:</hi> b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo in the laſt verſe, let him know that h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that converteth a ſinner from the error of hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way, ſhall ſave a ſoul from death, and hides <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> multitude of ſins, and the Lord give us eve<g ref="char:EOLunhyphen"/>ry one grace to pray one for another, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrive to forſake our wicked ſins and flie t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord our God, and forſake all other gods<g ref="char:punc">▪</g> And I beſéech you brethren ſuffer this wor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Exhortation to take impreſſion in you<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearts. Let brotherly love continue amon<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you, let your converſation be without cove<g ref="char:EOLhyphen"/>touſneſs, that we may all boldly ſay, the Lor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is my help, I will not fear what man can d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto me: If any of us lack wiſdom, let u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ask it of the Lord; but let us have a care tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="21" facs="tcp:46250:12"/> we ask it with a true and faithful heart, look<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g after Ieſus Chriſt the Author and Fi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her of our faith: Love thy Neighbour as
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf, and do to all men as you would they
+<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould do unto you; and in ſo doing, thou mayſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to be one of that bleſſed company which <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Lord and our Saviour Ieſus Chriſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th call ſo loving, <hi>As come unto me all ye <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at are weary and heavy laden, and I will give <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u reſt.</hi> And the Lord of his mercy ſend <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ery poor ſoul to that bleſſed reſt which ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r will have end; and that for thy dear Son <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r only Lord and Saviours ſake, to whom given all honour, praiſe, power, and domi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on, now and for evermore, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>I am yours in Chriſt Jeſus, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>HOMAS ROBINS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſe Books following being of a ſmall Price, are <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Printed for</hi> Thomas Paſſenger <hi>at the three Bibles <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on the middle of</hi> London-bridge.</head>
+            <p>THe Chriſtians Combate, or his true ſpiri<g ref="char:EOLhyphen"/>tual warfare: by <hi>C. Love</hi> late Preacher of
+<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Word in the City of <hi>London.</hi>
+            </p>
+            <p>The wiſe Merchant, or the pearl of price: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>T. Calvert,</hi> Miniſter in <hi>York.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:46250:13"/> The Book of Graces, with Prayers for Mo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing and Evening. Theſe are all but 3<hi>d</hi> a piece.</p>
+            <p>The Sinners Warning piece, or Heavens M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſenger: by <hi>T. Robins</hi> B<g ref="char:punc">▪</g> of D.</p>
+            <p>The Scholars Winter Garment, or the G<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment of Righteouſneſs: by <hi>T. R.</hi> B. of D.</p>
+            <p>
+               <hi>Englands</hi> Colden Legacy, or a brief Deſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ption of the manifold mercies the Lord h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beſtowed upon this ſinful Nation.</p>
+            <p>A Wonder of wonders, or Gods people <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worlds wonder: by <hi>R. H.</hi> a Lover of the Tru<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>Gods Meſſage from Heaven to Sinners <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Earth<hi>:</hi> by <hi>T. R.</hi> B. of L.</p>
+            <p>Chriſt upon the Croſs ſuffering for Sinne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by <hi>S. S.</hi>
+            </p>
+            <p>A Call to unconverted Sinners to turn to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord; a Book ſeaſonable for theſe Times: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>T. P.</hi> B. of L.</p>
+            <p>The School of Learning, being Prayers <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Morning and Evening for every day in the we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Graces before and after Meat, and a ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Catechiſme for Children.</p>
+            <p>Now or never work out your ſalvation w<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> fear and trembling: by <hi>R. B.</hi>
+            </p>
+            <p>The <hi>Vertuous Wife,</hi> or a good woman in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proper colors, being a new Book ſetting fo<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the rare qualities of the truly <hi>Vertuous Wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> by <hi>L. P.</hi> Theſe ten laſt are ſold for
+2<hi>d</hi> a pie<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46250:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
